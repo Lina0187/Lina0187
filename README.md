@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lina0187
-- 👀 I’m interested in cyber security 
+- 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning everything 
 
 <!---
